@@ -1,3 +1,4 @@
+```
 Find out how to verify downloaded files here, https://redd.it/8f651x
  
 If you need help, join discord @ https://discord.gg/4kag6JB
@@ -17,3 +18,4 @@ Magnet URL: magnet:?xt=urn:btih:e2f9dd1008d3b7f6a881950fa3f0414908220abb&dn=Halo
 ElDewrito Updater(0.6)
 HTTP DL: http://www.mediafire.com/file/1rbhtsd6j1q31xx/ElDewritoUpdater.zip
 Magnet URL: magnet:?xt=urn:btih:61df3ecd66be911b60fc3c2454331af8e36ccc4f&dn=ElDewritoUpdater.zip&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+```
